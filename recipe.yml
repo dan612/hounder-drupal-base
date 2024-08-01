@@ -63,7 +63,6 @@ config:
     user:
       - views.view.user_admin_people
     gin:
-      - gin.settings
       - block.block.gin_breadcrumbs
       - block.block.gin_content
       - block.block.gin_local_actions
