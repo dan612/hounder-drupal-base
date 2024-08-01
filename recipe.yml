@@ -46,6 +46,8 @@ install:
   - metatag
   - metatag_open_graph
   - metatag_verification
+  - layout_builder
+  - layout_discovery
 
 config:
   import:
