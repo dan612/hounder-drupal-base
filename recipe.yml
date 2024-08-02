@@ -3,6 +3,7 @@ description: 'Base setup for Hounder Drupal Projects'
 type: 'Site'
 
 install:
+  - address
   - config
   - node
   - user
@@ -51,6 +52,7 @@ install:
 
 config:
   import:
+    address: '*'
     dblog: '*'
     image: '*'
     media: '*'

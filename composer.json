@@ -12,6 +12,7 @@
     ],
     "require": {
         "drupal/admin_toolbar": "^3.4",
+        "drupal/address": "^2.0",
         "drupal/config_ignore": "^3.0",
         "drupal/csp": "^1.0",
         "drupal/field_group": "^3.0",
